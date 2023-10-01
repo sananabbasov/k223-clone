@@ -1,0 +1,60 @@
+body{
+    background-color: #000;
+}
+.logo{
+    color: #fff;
+    float: left;
+    width: 50%;
+    font-size: 358px;
+}
+.loginarea{
+    color: #fff;
+    float: right;
+    width: 50%;
+}
+.container{
+    width: 60%;
+    /* margin-top: 10%; margin-buttom: 10%; margin-left: auto; margin-right: auto; */
+    margin: 10% auto; 
+    background-color: red;
+}
+
+.loginarea h1{
+    font-size: 64px; 
+    color: #E7E9EA;
+}
+
+.loginarea p{
+    font-size: 31px;
+    color: #E7E9EA;
+}
+
+.container .loginarea .btn{
+    background-color: #fff;
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    margin: 10px 0;
+}
+
+.container .loginarea .btn.create{
+    color: #fff;
+    background-color: blue;
+}
+.container .loginarea p {
+    font-size: 14px;
+}
+.container .loginarea p a{
+    text-decoration: none;
+    color: blue;
+}
+
+.testclass{
+    width: 600px;
+    background-color: #fff;
+    height: 50px;
+}
+
+.kenan{
+    clear: both;
+}
